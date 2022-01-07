@@ -1,2 +1,2 @@
 # Face Recognition and Identification Repository
- ace Recognition and Identification using OpenCV Python
+ Face Recognition and Identification using OpenCV Python
